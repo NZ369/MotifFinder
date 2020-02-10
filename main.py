@@ -1,5 +1,6 @@
 # Bioinformatics:: Motif Finder
-# A transcription factor regulates a gene by binding to a specific short DNA interval called a regulatory motif, or transcription factor binding site, in the gene’s upstream region, a 600-1000 nucleotide-long region preceding the start of the gene.
+# A transcription factor regulates a gene by binding to a specific short DNA interval called a regulatory motif, 
+# or transcription factor binding site, in the gene’s upstream region, a 600-1000 nucleotide-long region preceding the start of the gene.
 
 import random
 
